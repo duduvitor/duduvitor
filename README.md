@@ -1,8 +1,5 @@
-## Opa! me chamo Eduardo
+## Opa! me chamo Eduardo, e aqui compartilho alguns dos meus projetos onde ponho em prática meus aprendizados.
 
-
-- 🔭 Estou estudando tecnologia da Informação na faeterj e procurando estagio
-- 🌱 Estou estudando Java
 
 
 <div>
